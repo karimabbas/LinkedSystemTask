@@ -1,0 +1,6 @@
+@LinkSystem_HostAddress = http://localhost:5211
+
+GET {{LinkSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

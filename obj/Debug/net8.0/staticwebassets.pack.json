@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\20115\\Desktop\\LinkSystem\\wwwroot\\ProdcutImages\\424879768_6582825268489511_8887864597840207264_n.jpg",
+      "PackagePath": "staticwebassets\\ProdcutImages\\424879768_6582825268489511_8887864597840207264_n.jpg"
+    },
+    {
+      "Id": "c:\\Users\\20115\\Desktop\\LinkSystem\\wwwroot\\ProdcutImages\\WhatsApp Image 2024-02-03 at 01.17.49_d7783a48.jpg",
+      "PackagePath": "staticwebassets\\ProdcutImages\\WhatsApp Image 2024-02-03 at 01.17.49_d7783a48.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LinkSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LinkSystem.props",
+      "PackagePath": "build\\LinkSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LinkSystem.props",
+      "PackagePath": "buildMultiTargeting\\LinkSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LinkSystem.props",
+      "PackagePath": "buildTransitive\\LinkSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
